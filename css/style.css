@@ -180,7 +180,7 @@ header h1 {
   text-decoration: none;
   color: var(--text);
   font-weight: bold;
-  font-size: 6.5px;
+  font-size: 10px;
   position: relative;
   padding-bottom: 0;
 }
@@ -1185,4 +1185,5 @@ header h1 {
   .footer-brand img {
     margin: 0 auto 10px;
   }
+
 }
