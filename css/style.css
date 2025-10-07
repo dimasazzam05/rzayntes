@@ -180,13 +180,13 @@ header h1 {
   text-decoration: none;
   color: var(--text);
   font-weight: bold;
-  font-size: 10px;
+  font-size: 20px;
   position: relative;
   padding-bottom: 0;
 }
 
 .navbar-nav a .iconify {
-  font-size: 15px;
+  font-size: 25px;
 }
 
 .navbar .navbar-nav a:hover {
@@ -1187,3 +1187,4 @@ header h1 {
   }
 
 }
+
